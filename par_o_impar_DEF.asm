@@ -1,5 +1,5 @@
 // Inicializar posición en la pantalla
-@SCREEN
+@SCREEN //16384
 D=A
 @Position
 M=D
